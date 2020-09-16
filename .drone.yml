@@ -5,5 +5,5 @@ steps:
   - name: test
     image: alpine
     commands:
-      - echo testing
+      - echo kub
       - echo mackensie
